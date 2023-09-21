@@ -11,7 +11,7 @@ class Greeting
 	// ここから追加する
   public function goodBye(): string
   {
-    return "good bye";
+    return "good bye"
   }
 }
 
