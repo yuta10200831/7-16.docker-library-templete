@@ -16,7 +16,7 @@ class Greeting
 	// ここから追加する
   public function goodNight(): string
   {
-    return "good night";
+    return "good night"
   }
 }
 
