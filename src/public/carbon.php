@@ -3,7 +3,6 @@ require '/var/www/html/vendor/autoload.php';
 
 use Carbon\Carbon;
 
-// 現在の日時を取得
 $now = Carbon::now();
 ?>
 <!DOCTYPE html>
