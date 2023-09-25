@@ -8,10 +8,15 @@ class Greeting
   {
     return "hello";
   }
-	// ここから追加する
+
   public function goodBye(): string
   {
-    return "good bye"
+    return "good bye";
+  }
+	// ここから追加する
+  public function goodNight(): string
+  {
+    return "good night"
   }
 }
 
